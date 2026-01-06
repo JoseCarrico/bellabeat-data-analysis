@@ -18,5 +18,5 @@ Este projeto analisa dados de dispositivos inteligentes da **Bellabeat** para id
 2. **Higiene do Sono:** Criar alertas baseados nos dados de "Time in Bed" para otimizar o descanso.
 
 ## 📁 Como navegar neste repositório
-* `/scripts`: Contém o código R estruturado para limpeza e análise.
+* `/notebooks`: Contém o código R estruturado para limpeza e análise.
 * `/visuals`: Gráficos gerados durante o estudo.

@@ -50,7 +50,7 @@ Clear, reproducible workflow using R:
 
 ## 📁 Repository Structure
 * `/notebooks`: Contains the `.ipynb` file with the full end-to-end code.
-* `/visuals`: PCA scatter plots and recall evolution charts.
+* `/visuals`: Contains evolution charts.
 
 ## 📊 Datasets
 - **Source**: Public FitBit Fitness Tracker Data (30 users, 31 days)

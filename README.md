@@ -20,3 +20,7 @@ Este projeto analisa dados de dispositivos inteligentes da **Bellabeat** para id
 ## 📁 Como navegar neste repositório
 * `/notebooks`: Contém o código R estruturado para limpeza e análise.
 * `/visuals`: Gráficos gerados durante o estudo.
+
+## 📊 Datasets
+
+- **Dataset completo**: Baixe do Kaggle aqui: [Link para o dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
